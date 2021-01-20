@@ -1,6 +1,6 @@
 <?php
+require_once($_SERVER['DOCUMENT_ROOT']."/db_info.php");
 
-include_once "../db_info.php";
 ob_start();  // Turns on output buffering
 
 date_default_timezone_set("Asia/Seoul");

@@ -1,3 +1,4 @@
+<?php require_once("includes/config.php");?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,7 +14,7 @@
 
 </head>
 <body>
-    
+
     <div id="pageContainer">
 
         <div id="mastHeadContainer">
